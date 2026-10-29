@@ -107,20 +107,21 @@ as Safe, Risk, or High-Risk.
 ---
 
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Pratix005&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Statistics" />
   <img width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pratix005&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Pratix005&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak" />
 </p>
 
@@ -129,11 +130,9 @@ as Safe, Risk, or High-Risk.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity Graph" />
+  <img src="https://YOUR-DEPLOYMENT.vercel.app/graph?username=Pratix005&theme=tokyo-night"
+       alt="Pratik's GitHub Activity Graph" />
 </p>
-
 
 ## 🤝 Connect With Me
 
