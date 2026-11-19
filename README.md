@@ -1,67 +1,156 @@
+# 👋 Hi, I'm Pratik Patil
 
-<h1 align="center">Hi 👋, I'm Pratik Patil</h1>
+\<h1 align="center">Hi 👋, I'm Pratik Patil\</h1>
 
-<h3 align="center">
-  AI/ML Engineer | Full-Stack Developer | CSE @ PES University
-</h3>
+\<h3 align="center">
+&#x20; AI/ML Engineer | Full-Stack Developer | CSE @ PES University
+\</h3>
 
-<p align="center">
-  Building intelligent systems for healthcare, accessibility,
-  and smart cities.
-</p>
+\<p align="center">
+&#x20; Building intelligent systems for healthcare, accessibility,
+&#x20; and smart cities.
+\</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning;Full-Stack+Development;Cloud+Computing+with+AWS;Building+Practical+AI+Solutions" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning;Full-Stack+Development;Cloud+Computing+with+AWS;Database+Engineering;Building+Practical+AI+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=AI+%26+Machine+Learning;Full-Stack+Development;Cloud+Computing+with+AWS;Database+Engineering;Building+Practical+AI+Solutions)" />
+\</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science student at PES University
-- 🤖 Interested in AI, ML, deep learning, and LLM integration
+- 🤖 Interested in AI, ML, Deep Learning, NLP, and LLM integration
 - 🌐 Building full-stack applications and scalable backend systems
+- 🗄️ Working with SQL, NoSQL, and Vector Databases
 - ☁️ Exploring cloud-native solutions using AWS
+- 🐳 Exploring containerization and orchestration using Docker and Kubernetes
 - 🔬 Currently interning at PESU Research Foundation
 - 💡 Built AI projects across healthcare, accessibility, and smart cities
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 💻 Programming Languages
 
-### AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLaMA_3.2-7B61FF?style=for-the-badge"/>
-</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)"/>
+&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)"/>
+\</p>
 
-### Frameworks & Backend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDKit-285C8E?style=for-the-badge"/>
-</p>
+### 🗄️ Databases & Data Management
 
-### Cloud & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge\&logo=amazondynamodb\&logoColor=white)"/>
+\</p>
+
+- **SQL / RDBMS:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB, Firebase, Redis, Amazon DynamoDB
+- **Vector Databases & Similarity Search:** ChromaDB, FAISS
+- Database Management Systems (DBMS)
+- Database Design and Relational Models
+- SQL Queries and Query Processing
+
+### 🤖 AI / Machine Learning & Deep Learning
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)"/>
+&#x20; \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Ollama-000000?style=for-the-badge](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)"/>
+&#x20; \<img src="[https://img.shields.io/badge/LLaMA_3.2-7B61FF?style=for-the-badge](https://img.shields.io/badge/LLaMA_3.2-7B61FF?style=for-the-badge)"/>
+\</p>
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Supervised Learning
+- Deep Learning and Neural Networks
+- Natural Language Processing (NLP)
+- Computer Vision
+- Large Language Models (LLMs)
+- LLM Integration and LangChain
+- AI Agents and Multi-Agent Systems
+- Model Training and Inference
+- Feature Extraction
+- Multi-Layer Perceptron (MLP)
+- Dynamic Time Warping (DTW)
+- Predictive Analytics
+
+### ⚙️ Frameworks & Backend Development
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)"/>
+&#x20; \<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/RDKit-285C8E?style=for-the-badge](https://img.shields.io/badge/RDKit-285C8E?style=for-the-badge)"/>
+\</p>
+
+- React.js
+- FastAPI
+- Flask
+- Bootstrap
+- REST API Development
+- Microservices Architecture
+- Backend Development
+- API Integration
+- Serverless Architecture
+
+### ☁️ Cloud Computing & AWS
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)"/>
+\</p>
+
+- Amazon EC2
+- Amazon S3
+- AWS IAM
+- AWS Lambda
+- Amazon DynamoDB
+- Amazon SNS
+- Amazon Bedrock
+- Cloud Computing
+- Serverless Computing
+
+### 🐳 DevOps & Developer Tools
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
+\</p>
+
+- Docker
+- Kubernetes
+- Linux
+- Git
+- GitHub
+- Containerization
+- Container Orchestration
+
+### 📚 Computer Science Fundamentals
+
+- Data Structures and Algorithms (DSA)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Process Management
+- CPU Scheduling
+- Process Synchronization
+- Object-Oriented Programming Concepts
+- Problem Solving
 
 ---
 
@@ -106,45 +195,31 @@ as Safe, Risk, or High-Risk.
 
 ---
 
-
-
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%"
-    src="https://github-stats-extended.vercel.app/api?username=Pratix005&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics" />
-  <img width="48%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pratix005&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages" />
-</p>
+\<p align="center">   \<img width="48%"     src="[https://github-stats-extended.vercel.app/api?username=Pratix005&show_icons=true&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api?username=Pratix005\&show_icons=true\&theme=tokyonight\&hide_border=true)"     alt="GitHub Statistics" />   \<img width="48%"     src="[https://github-stats-extended.vercel.app/api/top-langs/?username=Pratix005&layout=compact&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=Pratix005\&layout=compact\&theme=tokyonight\&hide_border=true)"     alt="Most Used Languages" /> \</p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Pratix005&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak" />
-</p>
+\<p align="center">   \<img     src="[https://streak-stats.demolab.com?user=Pratix005&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Pratix005\&theme=tokyonight\&hide_border=true)"     alt="GitHub Contribution Streak" /> \</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratix005&theme=tokyo-night"
-       alt="Pratik's GitHub Activity Graph" />
-</p>
+\<p align="center">   \<img     src="[https://github-readme-activity-graph.vercel.app/graph?username=Pratix005&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=Pratix005\&theme=tokyo-night)"     alt="Pratik's GitHub Activity Graph" /> \</p>
+
+---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratikpatil2105/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pratikpatil1008p@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/pratikpatil2105/](https://www.linkedin.com/in/pratikpatil2105/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:pratikpatil1008p\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+&#x20; \</a>
+\</p>
 
-<p align="center">
-  💻 Learn. Build. Experiment. Repeat.
-</p>
+\<p align="center">
+&#x20; 💻 Learn. Build. Experiment. Repeat.
+\</p>
