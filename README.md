@@ -23,7 +23,6 @@
 - 🗄️ Working with SQL, NoSQL, and Vector Databases
 - ☁️ Exploring cloud-native solutions using AWS
 - 🐳 Exploring containerization and orchestration using Docker and Kubernetes
-- 🔬 Currently interning at PESU Research Foundation
 - 💡 Built AI projects across healthcare, accessibility, and smart cities
 
 ---
