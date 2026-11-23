@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://pratix005.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-pratix005.github.io-FF5B14?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: pratix005.github.io"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning;Full-Stack+Development;Cloud+Computing+with+AWS;Database+Engineering;Building+Practical+AI+Solutions" alt="Typing SVG" />
 </p>
 
@@ -216,6 +222,9 @@ as Safe, Risk, or High-Risk.
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://pratix005.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5B14?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/pratikpatil2105/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
