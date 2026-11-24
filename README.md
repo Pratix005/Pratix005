@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science student at PES University
-- 🤖 Interested in AI, ML, Deep Learning, NLP, and LLM integration
+- 🤖 Interested in AI, ML, Deep Learning, NLP, and LLM integration, Security Based Projects
 - 🌐 Building full-stack applications and scalable backend systems
 - 🗄️ Working with SQL, NoSQL, and Vector Databases
 - ☁️ Exploring cloud-native solutions using AWS
